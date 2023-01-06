@@ -1,10 +1,9 @@
-package com.itheima.principles.demo1;
+package com.wbj.principles.demo1;
 
 /**
  * @version v1.0
  * @ClassName: Client
  * @Description: TODO(一句话描述该类的功能)
- * @Author: 黑马程序员
  */
 public class Client {
     public static void main(String[] args) {

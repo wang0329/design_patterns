@@ -1,10 +1,9 @@
-package com.itheima.principles.demo2.after;
+package com.wbj.principles.demo2.after;
 
 /**
  * @version v1.0
  * @ClassName: RectangleDemo
  * @Description: TODO(一句话描述该类的功能)
- * @Author: 黑马程序员
  */
 public class RectangleDemo {
     public static void main(String[] args) {

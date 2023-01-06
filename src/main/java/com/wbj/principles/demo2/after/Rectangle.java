@@ -1,10 +1,9 @@
-package com.itheima.principles.demo2.after;
+package com.wbj.principles.demo2.after;
 
 /**
  * @version v1.0
  * @ClassName: Rectangle
  * @Description: 长方形类
- * @Author: 黑马程序员
  */
 public class Rectangle implements Quadrilateral {
 

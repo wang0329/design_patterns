@@ -1,10 +1,9 @@
-package com.itheima.principles.demo1;
+package com.wbj.principles.demo1;
 
 /**
  * @version v1.0
  * @ClassName: SougouInput
  * @Description: 搜狗输入法
- * @Author: 黑马程序员
  */
 public class SougouInput {
 
